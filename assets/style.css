@@ -1,6 +1,8 @@
 body {
     background-color: hsl(47, 88%, 63%);
     font-family: "Figtree", sans-serif;
+    padding-top: 400px;
+    padding-bottom: 400px;
 }
 .container {
     background-color: hsl(0, 0%, 100%);
